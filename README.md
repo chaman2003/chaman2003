@@ -1,55 +1,42 @@
-# 👋 Hey, I'm Chaman S  
-
-🎓 **AI & ML Undergraduate | Full-Stack Developer | AI Integrator**  
-💡 Passionate about building scalable apps that blend **AI, ML, and modern web technologies**.  
-🚀 Skilled in **MERN, Next.js, React, Gemini API, Docker, CI/CD**, and cross-stack integrations.  
+# 👋 Hi, I'm Chaman S  
+🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator  
 
 ---
 
-## 🧑‍💻 About Me
-- 📍 Based in Bangalore, India  
-- 🔭 Currently developing an **AI & AR-integrated marketplace** at *Stallion Stainless*  
-- 🌱 Exploring **system design, cloud deployment, and advanced AI integration**  
-- 🏆 Consistently ranked **top of my department** and hackathon winner  
+## 📌 Quick Overview  
+| 🎯 Focus Areas | 🛠️ Tech Stack | 🏆 Achievements |
+|---------------|---------------|----------------|
+| Full-Stack Development (MERN, Next.js) <br> AI-Driven Applications <br> Scalable App Design | **Languages:** Python, JS/TS, Java, Kotlin, C <br> **Frontend:** React, Next.js, React Native, Tailwind, Three.js <br> **Backend/DB:** Node.js, Express, Flask, MongoDB, SQL, Firebase <br> **AI/ML:** Scikit-learn, NumPy, Pandas, HuggingFace, Gemini API <br> **DevOps/Cloud:** Docker, GitHub Actions, Vercel, Netlify, Render, Linux | 🥇 1st Rank – AI & ML Dept. (VKIT, 50 students) <br> 🥈 Hackathon – SCIMAGINATION 2K23 & 2K25 (2nd Place) <br> 📜 Harvard CS50x, Google Cybersecurity, MERN Stack, Java (NPTEL) |
 
 ---
 
 ## 🚀 Featured Projects
-- **[PeakHive](https://peakhive.vercel.app/)** – MERN-based scalable e-commerce platform with JWT auth, product filtering, real-time dashboards  
-- **[Epsilora-AI](http://epsilora.vercel.app/)** – AI-powered learning platform with chatbot, quiz generation, and analytics  
-- **[Tic Tac Toe AI](https://tictactoe-ai-chammy.vercel.app/)** – AI game with Minimax algorithm, themes, and multiplayer mode  
-- **[Personal Website](https://github.com/chaman2003/personal_website)** – Portfolio site showcasing projects & skills  
+| 🌐 Project | ⚙️ Tech | 📖 Description |
+|------------|---------|----------------|
+| [**PeakHive**](https://peakhive.vercel.app/) | MERN, JWT, Charts.js | Scalable tech e-commerce platform with filtering, carts, admin dashboards |
+| [**Epsilora-AI**](http://epsilora.vercel.app/) | React, TypeScript, Gemini API, Node | AI-driven learning platform with chatbot, auto quizzes, visual analytics |
+| [**Tic Tac Toe AI**](https://tictactoe-ai-chammy.vercel.app/) | Flask, JS, CSS | Minimax-powered game with dark/light themes & multiplayer |
+| [**Personal Website**](https://github.com/chaman2003/personal_website) | HTML, CSS, JS | Portfolio site showcasing projects, resume & achievements |
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, Java, Kotlin, TypeScript, C  
-**Frontend:** React, Next.js, React Native, Tailwind, Three.js, Bootstrap  
-**Backend & DB:** Node.js, Express.js, Flask, MongoDB, SQL, Firebase, Supabase  
-**AI & ML:** Scikit-learn, Pandas, NumPy, Gemini API, Hugging Face  
-**DevOps & Cloud:** Docker, GitHub Actions, Netlify, Vercel, Render, Linux, Kubernetes  
-**Data Analytics:** Power BI, Tableau, Excel, Google Sheets  
+## 📊 GitHub Snapshot  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chaman2003&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=radical" height="150" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=chaman2003&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&theme=radical)  
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/chaman2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/chaman2003"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:chamans7952@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://peakhive.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=for-the-badge"></a>
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🥇 **1st Rank** – AI & ML Dept. (VKIT, among 50 students)  
-- 🥈 **Hackathon Winner** – SCIMAGINATION 2K23 & 2K25 (2nd Place)  
-- 📜 Certified in **Harvard CS50x, Google Cybersecurity, MERN Stack (Edunet), Java (NPTEL)**  
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaman2003)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/chaman2003)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://peakhive.vercel.app/)  
-📧 chamans7952@gmail.com  
-
----
-✨ *“Coding is today what pen and paper were to writers.”*
+✨ *“Blending AI with scalable systems to craft impactful solutions.”*
