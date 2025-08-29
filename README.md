@@ -22,9 +22,8 @@
 
 ## 📊 GitHub Snapshot  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaman2003&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
