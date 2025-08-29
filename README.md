@@ -6,7 +6,7 @@
 ## 📌 Quick Overview  
 | 🎯 Focus Areas | 🛠️ Tech Stack | 🏆 Achievements |
 |---------------|---------------|----------------|
-| Full-Stack Development (MERN, Next.js) <br> AI-Driven Applications <br> Scalable App Design | **Languages:** Python, JS/TS, Java, Kotlin, C <br> **Frontend:** React, Next.js, React Native, Tailwind, Three.js <br> **Backend/DB:** Node.js, Express, Flask, MongoDB, SQL, Firebase <br> **AI/ML:** Scikit-learn, NumPy, Pandas, HuggingFace, Gemini API <br> **DevOps/Cloud:** Docker, GitHub Actions, Vercel, Netlify, Render, Linux | 🥇 1st Rank – AI & ML Dept. (VKIT, 50 students) <br> 🥈 Hackathon – SCIMAGINATION 2K23 & 2K25 (2nd Place) <br> 📜 Harvard CS50x, Google Cybersecurity, MERN Stack, Java (NPTEL) |
+| Full-Stack Development (MERN, Next.js) <br> AI-Driven Applications <br> Scalable App Design | **Languages:** Python, JS/TS, Java, Kotlin, C <br> **Frontend:** React, Next.js, React Native, Tailwind, Three.js <br> **Backend/DB:** Node.js, Express, Flask, MongoDB, SQL, Firebase <br> **AI/ML:** Scikit-learn, NumPy, Pandas, HuggingFace, Gemini API <br> **DevOps/Cloud:** Docker, GitHub Actions, Vercel, Netlify, Render, Linux | 🥇 1st Rank – 3rd & 6th Sem, AI & ML Dept. (VKIT, 50 students) <br> 🥈 Hackathon – SCIMAGINATION 2K23 & 2K25 (2nd Place) <br> 📜 Harvard CS50x, Google Cybersecurity, MERN Stack, Java (NPTEL) |
 
 ---
 
