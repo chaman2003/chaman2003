@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Chaman S  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Hi%20👋%20I'm%20Chaman%20S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+---
 🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator  
 
 ---
@@ -39,3 +44,10 @@
 ---
 
 ✨ *“Blending AI with scalable systems to craft impactful solutions.”*
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=100&section=footer"/>
+</p>
