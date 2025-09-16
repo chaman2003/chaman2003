@@ -5,7 +5,6 @@
 
 ---
 🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator  
-
 ---
 
 ## 📌 Quick Overview  
