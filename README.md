@@ -24,14 +24,6 @@
 
 ---
 
-## 📊 GitHub Snapshot  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/chaman2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
