@@ -20,7 +20,7 @@
 | [**PeakHive**](https://peakhive.vercel.app/) | MERN, JWT, Charts.js | Scalable tech e-commerce platform with filtering, carts, admin dashboards |
 | [**Epsilora-AI**](http://epsilora.vercel.app/) | React, TypeScript, Gemini API, Node | AI-driven learning platform with chatbot, auto quizzes, visual analytics |
 | [**Tic Tac Toe AI**](https://tictactoe-ai-chammy.vercel.app/) | Flask, JS, CSS | Minimax-powered game with dark/light themes & multiplayer |
-| [**Portfolio Website**](https://portfolio-chaman.vercel.app/) <br> | Next.js, Tailwind, React | Professional personal portfolio showcasing projects, resume & achievements |
+| [**Portfolio Website**](https://portfolio-chaman.vercel.app/) <br> | HTML, CSS, JS | Professional personal portfolio showcasing projects, resume & achievements |
 
 ---
 
