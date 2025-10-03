@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=header&text=Hi%20👋%20I'm%20Chaman%20S&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=header&text=Hi%2👋 %20I'm%20Chaman%20S&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me  <img src="https://visitor-badge.laobi.icu/badge?page_id=chaman2003" alt="Visitors"></a>
 <p align="center">
   <a href="https://linkedin.com/in/chaman2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/chaman2003"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"></a>
