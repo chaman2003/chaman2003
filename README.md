@@ -24,12 +24,13 @@
 
 ---
 
-## 🌐 Connect with Me  <img src="https://visitor-badge.laobi.icu/badge?page_id=chaman2003" alt="Visitors"></a>
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/chaman2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/chaman2003"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:chamans7952@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://portfolio-chaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/chaman2003"> <img src="https://visitor-badge.laobi.icu/badge?page_id=chaman2003" alt="Visitors"></a>
 </p>
 
 ---
