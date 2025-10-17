@@ -36,7 +36,7 @@ Strong understanding of **MERN stack**, **Gemini API**, **Docker**, and **CI/CD 
 | **Tools & Soft Skills** | Git, GitHub, Postman, Figma, Photoshop, Premiere Pro, Teamwork, Problem Solving |
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,python" />
 </p>
 
 ---
