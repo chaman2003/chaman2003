@@ -4,119 +4,81 @@
 </p>
 
 ---
-
 🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator  
 ---
 
 ## 📌 Quick Overview  
-
-<table align="center" width="100%">
-  <tr>
-    <th align="center">🎯 Focus Areas</th>
-    <th align="center">🛠️ Tech Stack</th>
-    <th align="center">🏆 Achievements</th>
-  </tr>
-  <tr>
-    <td align="left">
-      • Full-Stack Development (MERN, Next.js)<br>
-      • AI-Driven Applications<br>
-      • Scalable App Design
-    </td>
-    <td align="left">
-      <b>Languages:</b> Python, JS/TS, Java, Kotlin, C<br>
-      <b>Frontend:</b> React, Next.js, React Native, Tailwind, Three.js<br>
-      <b>Backend/DB:</b> Node.js, Express, Flask, MongoDB, SQL, Firebase<br>
-      <b>AI/ML:</b> Scikit-learn, NumPy, Pandas, HuggingFace, Gemini API<br>
-      <b>DevOps/Cloud:</b> Docker, GitHub Actions, Vercel, Netlify, Render, Linux
-    </td>
-    <td align="left">
-      🥇 1st Rank – 3rd & 6th Sem, AI & ML Dept. (VKIT, 50 students)<br>
-      🥈 Hackathon – SCIMAGINATION 2K23 & 2K25 (2nd Place)<br>
-      📜 Harvard CS50x, Google Cybersecurity, MERN Stack, Java (NPTEL)
-    </td>
-  </tr>
-</table>
+| 🎯 Focus Areas | 🛠️ Tech Stack | 🏆 Achievements |
+|---------------|---------------|----------------|
+| Full-Stack Development (MERN, Next.js) <br> AI-Driven Applications <br> Scalable App Design | **Languages:** Python, JS/TS, Java, Kotlin, C <br> **Frontend:** React, Next.js, React Native, Tailwind, Three.js <br> **Backend/DB:** Node.js, Express, Flask, MongoDB, SQL, Firebase <br> **AI/ML:** Scikit-learn, NumPy, Pandas, HuggingFace, Gemini API <br> **DevOps/Cloud:** Docker, GitHub Actions, Vercel, Netlify, Render, Linux | 🥇 1st Rank – 3rd & 6th Sem, AI & ML Dept. (VKIT, 50 students) <br> 🥈 Hackathon – SCIMAGINATION 2K23 & 2K25 (2nd Place) <br> 📜 Harvard CS50x, Google Cybersecurity, MERN Stack, Java (NPTEL) |
 
 ---
 
-## 🚀 Featured Projects  
-
-<table align="center" width="100%">
-  <tr>
-    <th align="center">🌐 Project</th>
-    <th align="center">⚙️ Tech Stack</th>
-    <th align="center">📖 Description</th>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://peakhive.vercel.app/"><b>PeakHive</b></a></td>
-    <td align="center">MERN, JWT, Chart.js</td>
-    <td align="left">Scalable tech e-commerce platform with product filtering, cart, wishlist & admin dashboards.</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://epsilora.vercel.app/"><b>Epsilora-AI</b></a></td>
-    <td align="center">React, TypeScript, Gemini API, Node</td>
-    <td align="left">AI learning platform with chatbot, automated quizzes & visual analytics.</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://tictactoe-ai-chammy.vercel.app/"><b>Tic Tac Toe AI</b></a></td>
-    <td align="center">Flask, JS, HTML, CSS</td>
-    <td align="left">Minimax-powered AI game with Cyberpunk theme, dark/light modes & multiplayer support.</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://portfolio-chaman.vercel.app/"><b>Portfolio Website</b></a></td>
-    <td align="center">HTML, CSS, JS</td>
-    <td align="left">Personal website showcasing projects, resume & achievements.</td>
-  </tr>
-</table>
+## 🚀 Featured Projects
+| 🌐 Project | ⚙️ Tech | 📖 Description |
+|------------|---------|----------------|
+| [**PeakHive**](https://peakhive.vercel.app/) | MERN, JWT, Charts.js | Scalable tech e-commerce platform with filtering, carts, admin dashboards |
+| [**Epsilora-AI**](http://epsilora.vercel.app/) | React, TypeScript, Gemini API, Node | AI-driven learning platform with chatbot, auto quizzes, visual analytics |
+| [**Tic Tac Toe AI**](https://tictactoe-ai-chammy.vercel.app/) | Flask, JS, HTML, CSS | Minimax-powered game with dark/light themes & multiplayer |
+| [**Portfolio Website**](https://portfolio-chaman.vercel.app/) | HTML, CSS, JS | Professional personal portfolio showcasing projects, resume & achievements |
 
 ---
 
-## 🎓 Education  
-
-| 🎓 Institution | 📅 Duration | 📘 Course | 📈 Performance |
-|----------------|-------------|-----------|----------------|
-| **Vivekananda Institute of Technology, Bangalore** | Dec 2022 – Jun 2026 | B.E. in Artificial Intelligence & Machine Learning | **8.7 CGPA** |
-| **New Fort Govt. PU College, Bangalore** | Oct 2020 – Aug 2022 | Pre-University in Science (PCMB) | **77%** |
+## 🧠 Certifications
+- 🎓 **CS50x - Introduction to Computer Science** – *Harvard University*  
+- 🔐 **Google Cybersecurity Specialization** – *Google*  
+- 💻 **Building Modern Web Applications with MERN Stack** – *Edunet Foundation (AICTE & EY GDS)*  
+- ☕ **Programming in Java** – *NPTEL (IIT Certified)*  
 
 ---
 
-## 🧩 Technical Skills  
-
-| Category | Tools / Technologies |
+## 🧩 Technical Skills
+| Category | Tools & Technologies |
 |-----------|----------------------|
 | **Languages** | Python, C, C++, JavaScript, TypeScript, Java, Kotlin |
-| **Frontend** | React, Next.js, React Native, Tailwind, Bootstrap, Three.js |
-| **Backend / DB** | Node.js, Express.js, Flask, MongoDB, SQL, Firebase, Supabase |
-| **AI / ML** | Scikit-learn, Pandas, NumPy, Hugging Face, Gemini, OpenAI |
-| **DevOps / Cloud** | Docker, Kubernetes, CI/CD, GitHub Actions, Netlify, Vercel, Render, Linux |
-| **Other Tools** | Git, Postman, Figma, Power BI, Tableau, Photoshop, Premiere Pro |
+| **Frontend** | React.js, Next.js, React Native, Redux, HTML, CSS, Tailwind, Bootstrap, Three.js |
+| **Backend & DB** | Node.js, Express.js, Flask, REST APIs, Kafka, SQL, MongoDB, Firebase, Supabase |
+| **AI/ML & Cybersecurity** | Scikit-learn, Pandas, NumPy, OpenAI, Gemini API, Hugging Face, JWT, OAuth, SIEM, Wireshark |
+| **DevOps & Data Tools** | Docker, Kubernetes, CI/CD, GitHub Actions, Power BI, Tableau, Excel, Netlify, Vercel, Render, Linux |
+| **Others** | Git, Postman, Figma, Photoshop, Premiere Pro, Problem Solving, Teamwork, Time Management |
 
 ---
 
-## 🏆 Achievements  
+## 🎓 Education
+- 🧑‍💻 **B.E. in Artificial Intelligence & Machine Learning** – *Vivekananda Institute of Technology, Bangalore* (Dec 2022 – Jun 2026)  
+  `CGPA: 8.7`  
+- 🧮 **Pre-University in Science (PCMB)** – *New Fort Govt PU College, Bangalore* (Oct 2020 – Aug 2022)  
+  `77% Marks`
 
-- 🥇 **1st Rank** – 3rd & 6th Sem (AI & ML Dept., VKIT – 50 students)  
-- 🥈 **2nd Place** – SCIMAGINATION 2K23 (Tech Innovation Contest)  
-- 🥈 **2nd Place** – SCIMAGINATION 2K25 (College Hackathon)  
-- 📜 **Certifications:** Harvard CS50x, Google Cybersecurity, MERN Stack (Edunet), Java (NPTEL)
+---
+
+## 🏅 Achievements
+- 🥇 **Academic Topper:** 1st Rank in 3rd & 6th Sem (AI & ML Dept, VKIT)  
+- 🥈 **Hackathon - SCIMAGINATION 2K23:** 2nd Place for innovative tech solution  
+- 🥈 **Hackathon - SCIMAGINATION 2K25:** 2nd Place at college-level hackathon  
+
+---
+
+## 🗣️ Languages Known
+- English (Fluent)  
+- Hindi (Fluent)  
+- Kannada (Native)  
+- Telugu (Conversational)
 
 ---
 
 ## 🌐 Connect with Me  
-
 <p align="center">
   <a href="https://linkedin.com/in/chaman2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/chaman2003"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:chamans7952@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://portfolio-chaman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/chaman2003"><img src="https://visitor-badge.laobi.icu/badge?page_id=chaman2003" alt="Visitors"></a>
+  <a href="https://github.com/chaman2003"> <img src="https://visitor-badge.laobi.icu/badge?page_id=chaman2003" alt="Visitors"></a>
 </p>
 
 ---
 
-<p align="center">
-  ✨ <i>“Blending AI with scalable systems to craft impactful solutions.”</i> ✨
-</p>
+✨ *“Blending AI with scalable systems to craft impactful solutions.”*
 
 ---
 
