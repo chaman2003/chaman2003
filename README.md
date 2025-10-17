@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator</h3>
-<p align="center">Blending AI with scalable systems to craft impactful digital experiences.</p>
+<p align="center">Blending AI Powered Web Applications with scalable systems to craft impactful digital experiences.</p>
 
 ---
 
@@ -61,16 +61,6 @@ Strong understanding of **MERN stack**, **Gemini API**, **Docker**, and **CI/CD 
 🥇 **Academic Topper** – 1st Rank (3rd & 6th Sem, AI & ML Dept, VKIT)  
 🥈 **SCIMAGINATION 2K23** – 2nd Place (Innovative Tech Solution)  
 🥈 **SCIMAGINATION 2K25** – 2nd Place (College Hackathon)  
-
----
-
-## 🌍 Languages
-| 🗣️ Language | 🌐 Proficiency |
-|--------------|----------------|
-| English | Fluent |
-| Hindi | Fluent |
-| Kannada | Native |
-| Telugu | Conversational |
 
 ---
 
