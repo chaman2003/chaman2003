@@ -39,32 +39,6 @@
 
 ---
 
-## 💼 Professional Experience  
-
-<table align="center" width="100%">
-  <tr>
-    <th align="left" width="40%">🏢 Organization</th>
-    <th align="left" width="60%">📋 Role & Contributions</th>
-  </tr>
-  <tr>
-    <td><b>Stallion Stainless</b> <br> <i>Feb 2025 – May 2025</i> <br> <b>Next.js Developer & Digital Marketing Lead</b></td>
-    <td>
-      • Built an AI + AR integrated marketplace for stainless steel furniture using <b>Next.js (MERN)</b>, improving SEO by 50%.<br>
-      • Led marketing strategy, increasing reach by 40% and acquiring 200+ users in 3 months.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Edunet Foundation</b> (with <b>EY GDS</b> & <b>AICTE</b>)<br> <i>Mar 2024 – Apr 2024</i><br> <b>Full Stack Developer (MERN)</b></td>
-    <td>
-      • Built <b>PeakHive</b>, a MERN-based tech e-commerce platform.<br>
-      • Implemented JWT auth, filtering, cart, dashboards, & real-time orders.<br>
-      • Improved user engagement by 50% with modern responsive UI.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Featured Projects  
 
 <table align="center" width="100%">
