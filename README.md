@@ -59,11 +59,11 @@
 
 ---
 
-## 🗣️ Languages Known
-- English (Fluent)  
-- Hindi (Fluent)  
-- Kannada (Native)  
-- Telugu (Conversational)
+# 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,python,tensorflow" />
+</p>
 
 ---
 
