@@ -15,7 +15,7 @@
 ## 🧠 Professional Summary
 🚀 Passionate **AI & ML undergraduate** specializing in **Full-Stack Web Development** and **AI Integration**.  
 Skilled in crafting scalable, intelligent applications that blend creativity, performance, and precision.  
-Strong understanding of **MERN stack**, **Gemini API**, **Docker**, and **CI/CD pipelines**, with a flair for innovation and real-world problem-solving.
+Strong understanding of **MERN stack**, **AI API's**, **Database**, and **DevOps**, with a flair for innovation and real-world problem-solving.
 
 ---
 
