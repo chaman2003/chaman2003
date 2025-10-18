@@ -6,6 +6,10 @@
 <h3 align="center">🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator</h3>
 <p align="center">Blending AI Powered Web Applications with scalable systems to craft impactful digital experiences.</p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,python" />
+</p>
+
 ---
 
 ## 🧠 Professional Summary
@@ -34,10 +38,6 @@ Strong understanding of **MERN stack**, **Gemini API**, **Docker**, and **CI/CD 
 | **AI/ML & Cybersecurity** | Scikit-learn, Pandas, NumPy, Gemini API, Hugging Face, JWT, OAuth, SIEM, Wireshark |
 | **DevOps & Data** | Docker, Kubernetes, CI/CD, GitHub Actions, Power BI, Tableau, Linux, Vercel, Netlify, Render |
 | **Tools & Soft Skills** | Git, GitHub, Postman, Figma, Photoshop, Premiere Pro, Teamwork, Problem Solving |
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,python" />
-</p>
 
 ---
 
