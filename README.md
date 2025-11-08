@@ -75,7 +75,13 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaman2003)](https://git.io/streak-stats)
+<div align="center">
+  <!-- Activity Graph -->
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=DragonEmperor9480&bg_color=0d1117&color=64ffda&line=64ffda&point=64ffda&area=true&hide_border=true" />
+
+  <!-- Most Used Languages -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonEmperor9480&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" />
+</div>
 
 ---
 
