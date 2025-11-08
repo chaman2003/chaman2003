@@ -75,6 +75,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaman2003)](https://git.io/streak-stats)
+
+---
+
 ✨ *“Blending AI with scalable systems to craft impactful solutions.”*
 
 ---
