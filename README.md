@@ -76,11 +76,11 @@
 ---
 
 <div align="center">
-  <!-- Activity Graph -->
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=DragonEmperor9480&bg_color=0d1117&color=64ffda&line=64ffda&point=64ffda&area=true&hide_border=true" />
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=chaman2003&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 
   <!-- Most Used Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonEmperor9480&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" height="180"/>
 </div>
 
 ---
