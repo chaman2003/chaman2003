@@ -76,7 +76,8 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chaman2003&theme=gotham&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=gotham&hide_border=true" />
+
 
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" height="180"/>
