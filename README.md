@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=gotham&hide_border=true" />
+[<img src="https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=gotham&hide_border=true" />](https://github-readme-stats.vercel.app/api?username=chaman2003&show_icons=true&theme=gotham&hide_border=true")
 
 
   <!-- Most Used Languages -->
