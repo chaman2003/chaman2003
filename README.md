@@ -79,16 +79,17 @@
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaman2003&theme=gotham&hide_border=true" />
+<td width="70%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaman2003&theme=gotham&hide_border=true" height="280"/>
 </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" height="180"/>
+<td width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" height="280"/>
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
