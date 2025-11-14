@@ -80,7 +80,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DragonEmperor9480&theme=gotham&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chaman2003&theme=gotham&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" alt="GitHub Streak" />
 </td>
 <td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" height="280"/>
