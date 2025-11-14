@@ -79,10 +79,10 @@
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=DragonEmperor9480&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff" alt="GitHub Stats" />
 </td>
-<td width="30%">
+<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaman2003&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=ffffff&hide_border=true" height="280"/>
 </td>
 </tr>
