@@ -44,23 +44,16 @@
 ## 🎓 Education
 | 🎓 Institution | 🏫 Degree | 📅 Duration | 📈 Performance |
 |----------------|-----------|-------------|----------------|
-| Vivekananda Institute of Technology, Bangalore | B.E. in Artificial Intelligence & Machine Learning | Dec 2022 – Jun 2026 | **8.7 CGPA** |
-| New Fort Govt PU College, Bangalore | Pre-University (PCMB) | Oct 2020 – Aug 2022 | **77%** |
+| VKIT, Bangalore | B.E. in Artificial Intelligence & Machine Learning | Dec 2022 – Jun 2026 | **8.7 CGPA** |
 
 ---
+
 ## 🧾 Certifications
 
 📜 **CS50x** – Harvard’s Introduction to Computer Science  
 🛡️ **Google Cybersecurity Specialization**  
 🌐 **Building Modern Web Apps (MERN Stack)** – Edunet Foundation (EY GDS & AICTE)  
 ☕ **Programming in Java** – NPTEL  
-
----
-
-## 🏆 Achievements
-🥇 **Academic Topper** – 1st Rank (3rd & 6th Sem, AI & ML Dept, VKIT)  
-🥈 **SCIMAGINATION 2K23** – 2nd Place (Innovative Tech Solution)  
-🥈 **SCIMAGINATION 2K25** – 2nd Place (College Hackathon)  
 
 ---
 
