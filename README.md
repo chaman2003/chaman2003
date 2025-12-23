@@ -22,8 +22,9 @@
 ## 🚀 Featured Projects
 | 🌐 Project | ⚙️ Tech | 📖 Description |
 |------------|---------|----------------|
-| [**PeakHive**](https://peakhive.vercel.app/) | MERN, JWT, Chart.js | Full-stack e-commerce platform with filtering, carts, admin dashboards & analytics |
 | [**Epsilora-AI**](http://epsilora.vercel.app/) | React, TypeScript, Gemini API | AI-driven learning platform with chatbot, auto quizzes & visual analytics |
+| [**PrintChakra**](https://github.com/chaman2003/printchakra) | Flask, React, TypeScript, OCR, Whisper, Socket.IO | AI-powered print & scan automation with voice control, OCR pipeline, real-time workflows |
+| [**PeakHive**](https://peakhive.vercel.app/) | MERN, JWT, Chart.js | Full-stack e-commerce platform with filtering, carts, admin dashboards & analytics |
 | [**Tic Tac Toe AI**](https://tictactoe-ai-chammy.vercel.app/) | Flask, JS, HTML, CSS | Minimax-powered intelligent game with cyberpunk & dark/light modes |
 | [**Portfolio Website**](https://portfolio-chaman.vercel.app/) | HTML, CSS, JS | Personal portfolio showcasing achievements & projects |
 
