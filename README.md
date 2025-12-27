@@ -51,10 +51,10 @@
 
 ## 🧾 Certifications
 
-📜 **CS50x** – Harvard’s Introduction to Computer Science  
+📜 **CS50x – Harvard’s Introduction to Computer Science**  
 🛡️ **Google Cybersecurity Specialization**  
-🌐 **Building Modern Web Apps (MERN Stack)** – Edunet Foundation (EY GDS & AICTE)  
-☕ **Programming in Java** – NPTEL  
+🌐 **Building Modern Web Apps (MERN Stack)**
+☕ **Programming in Java**  
 
 ---
 
