@@ -54,7 +54,6 @@
 📜 **CS50x – Harvard’s Introduction to Computer Science**  
 🛡️ **Google Cybersecurity Specialization**  
 🌐 **Building Modern Web Apps (MERN Stack)** 
-
 ☕ **Programming in Java**  
 
 ---
