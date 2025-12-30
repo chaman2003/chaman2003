@@ -30,15 +30,22 @@
 
 ---
 
-## 🧩 Tech Stack & Tools
-| 💻 Category | 🧠 Technologies |
-|-------------|----------------|
-| **Languages** | Python, JavaScript, TypeScript, Java, C, C++, Kotlin |
-| **Frontend** | React.js, Next.js, React Native, Redux, Tailwind, Bootstrap, Three.js |
-| **Backend & Databases** | Node.js, Express.js, Flask, REST APIs, MongoDB, SQL, PostgreSQL, Firebase, Supabase |
-| **AI/ML & Cybersecurity** | Scikit-learn, Pandas, NumPy, Gemini API, Hugging Face, JWT, OAuth, SIEM, Wireshark |
-| **DevOps & Data** | Docker, Kubernetes, CI/CD, GitHub Actions, Power BI, Tableau, Linux, Vercel, Netlify, Render |
-| **Tools & Soft Skills** | Git, GitHub, Postman, Figma, Photoshop, Premiere Pro, Teamwork, Problem Solving |
+## 🧩 Skills & Tech Stack
+
+| Category | Technologies |
+|---------|--------------|
+| **Languages** | C, Python, JavaScript, TypeScript, Java |
+| **Frontend** | React.js, Redux, HTML, CSS, Tailwind, Bootstrap, Three.js |
+| **Backend & APIs** | Node.js, Express.js, Flask, REST APIs, Kafka, Gemini API, OpenAI API |
+| **Databases** | SQL, MongoDB, PostgreSQL, Firebase, Supabase, Redis, Vector Databases |
+| **AI & GenAI** | LLMs, Agentic AI, Generative AI, RAG, MCP, LangChain, Orchestration Pipelines |
+| **Machine Learning** | Classification, Regression, Clustering, Feature Extraction, Model Evaluation |
+| **Cybersecurity** | SIEM basics, Log Analysis, Access Control, Network Security, Vulnerability Assessment |
+| **DevOps & Cloud** | Docker, Kubernetes, CI/CD, Linux, Netlify, Vercel, Render, Heroku |
+| **Developer Tools** | Git, GitHub, VS Code, Postman, Figma, Photoshop, Premiere Pro |
+| **AI Dev Tools** | Cursor, Windsurf, GitHub Copilot, Claude Code, Replit |
+| **Data & Office** | Power BI, Tableau, Excel, PowerPoint, Word, Outlook |
+| **Soft Skills** | Problem Solving, Time Management, Technical Documentation, User Guidance |
 
 ---
 
