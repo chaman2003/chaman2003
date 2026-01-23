@@ -49,22 +49,6 @@
 
 ---
 
-## 🎓 Education
-| 🎓 Institution | 🏫 Degree | 📅 Duration | 📈 Performance |
-|----------------|-----------|-------------|----------------|
-| VKIT, Bangalore | B.E. in Artificial Intelligence & Machine Learning | Dec 2022 – Jun 2026 | **8.7 CGPA** |
-
----
-
-## 🧾 Certifications
-
-📜 **CS50x – Harvard’s Introduction to Computer Science**  
-🛡️ **Google Cybersecurity Specialization**  
-🌐 **Building Modern Web Applications (MERN Stack)**  
-☕ **Programming in Java**
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/chaman2003"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
