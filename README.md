@@ -39,7 +39,6 @@
 | **Backend & APIs** | Node.js, Express.js, Flask, REST APIs, Kafka, Gemini API, OpenAI API |
 | **Databases** | SQL, MongoDB, PostgreSQL, Firebase, Supabase, Redis, Vector Databases |
 | **AI & GenAI** | LLMs, Agentic AI, Generative AI, RAG, MCP, LangChain, Orchestration Pipelines |
-| **Machine Learning** | Classification, Regression, Clustering, Feature Extraction, Model Evaluation |
 | **Cybersecurity** | SIEM basics, Log Analysis, Access Control, Network Security, Vulnerability Assessment |
 | **DevOps & Cloud** | Docker, Kubernetes, CI/CD, Linux, Netlify, Vercel, Render, Heroku |
 | **Developer Tools** | Git, GitHub, VS Code, Postman, Figma, Photoshop, Premiere Pro |
