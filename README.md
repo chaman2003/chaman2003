@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Hi%20👋%20I'm%20CHAMAN%20S&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🎓 AI & ML Undergraduate | 💻 Full-Stack Developer | 🤖 AI Integrator</h3>
+<h3 align="center">🎓 AI & ML Engineer | 💻 Full-Stack Developer | 🤖 AI Integrator</h3>
 <p align="center">Blending AI Powered Web Applications with scalable systems to craft impactful digital experiences.</p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 Professional Summary
-🚀 Passionate **AI & ML Undergraduate** specializing in **Full-Stack Web Development** and **AI Integration**.  
+🚀 Passionate **AI & ML Engineer** specializing in **Full-Stack Web Development** and **AI Integration**.  
 💡 Skilled in crafting **scalable, intelligent applications** that merge creativity, performance, and precision.  
 🛠️ Strong expertise in **MERN Stack**, **AI APIs**, **Databases**, and **DevOps**, with a flair for innovation and solving real-world problems.
 
